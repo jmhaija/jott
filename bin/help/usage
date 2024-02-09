@@ -1,0 +1,7 @@
+
+USAGE
+    jott [option]
+
+OPTIONS
+    install     Installs the SQL tables in the database
+    help        This help guide
